@@ -1,0 +1,5 @@
+train: C:/Users/LeeEunseo/Documents/GitHub/CXray/data/images/train
+val: C:/Users/LeeEunseo/Documents/GitHub/CXray/data/images/val
+
+nc: 1
+names: ['bubble']
